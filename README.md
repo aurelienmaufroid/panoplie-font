@@ -21,8 +21,8 @@ Coller les valeurs dans cette partie du script:
 ```
 /////////////////////PARAMETRES A MODIFIER////////////////////////
 
-float xGap = 50, yGap; //XGAP
-int maxsize = 80; //TAILLE MAX MODULE
+float xGap = 38, yGap; //XGAP
+int maxsize = 58; //TAILLE MAX MODULE
 int fontsize = 1000; //CORPS
 
 /////////////////////////////////////////////////////////////////
