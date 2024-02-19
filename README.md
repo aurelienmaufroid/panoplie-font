@@ -12,7 +12,7 @@ Dessiner le module dans un logiciel vectoriel de votre choix et l'exporter au fo
 #### A. Choisir ses paramètres
 Ouvrir le script Processing `panoplie_alphabet_test` et tester les différents paramètres disponibles.
 
-![alt text](https://github.com/aurelienmaufroid/panoplie-font/blob/main/documentation/step2.2.png)
+![alt text](https://github.com/aurelienmaufroid/panoplie-font/blob/main/documentation/step2.2_animationv2.gif)
 
 #### B. Générer avec ses paramètres
 Copier les valeurs des paramètres modifiés.<br/>
